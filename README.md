@@ -35,7 +35,6 @@
 ## 📖 Методологии
 
 - ✅ Agile / Scrum
-- ✅ Waterfall
 - ✅ BPMN 2.0 моделирование
 - ✅ User Story writing
 - ✅ Requirements Analysis
@@ -47,7 +46,7 @@
   - Специальность: Финансы и кредит
   
 - **Профессиональное обучение:**
-  - Business Analysis Foundation
+  - Business Analysis 
   - BPMN 2.0 Certification
   - Agile & Scrum Master
 
