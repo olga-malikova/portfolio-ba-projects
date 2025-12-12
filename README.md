@@ -20,7 +20,7 @@
 - **Инструменты:** BPMN / User Stories / Figma прототипы
 - **Результат:** ↓ 40% время обработки заказа
 
-👉 [Открыть проект →] https://docs.google.com/document/d/1R1fKBIHBGNP79OYQ6PyNT1LXrXP5X-d_9qQrfBcvdrc/edit?usp=sharing
+👉 [Открыть проект →] https://github.com/olga-malikova/portfolio-ba-projects/tree/main/project-1-online-sales-automation
 
 ## 🛠️ Технический стек
 
